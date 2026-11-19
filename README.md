@@ -9,3 +9,5 @@ Admin /roskomnadzor command
 
 No server mod. Accept only. Plugin + mod
 
+https://github.com/lenagerasimov0-afk/roskomnadzo-minecraft-/blob/d5750f80032f3042e0046ce92ebbed24d8d51b6c/README.md
+
